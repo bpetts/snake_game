@@ -3,7 +3,7 @@ from turtle import Turtle
 ALIGNMENT = "center"
 SCORE_FONT = ('Courier', 15, 'normal')
 GAME_OVER_FONT = ('Courier', 20, 'normal')
-HS_FILEPATH = r"C:\Users\bobby\Desktop\data.txt"
+HS_FILEPATH = r"data.txt"
 HS_FILEPATH = str(HS_FILEPATH)
 
 
